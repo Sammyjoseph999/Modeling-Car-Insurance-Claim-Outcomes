@@ -20,3 +20,7 @@ Finds the single best predictor of whether a customer makes an insurance claim, 
 pip install -r requirements.txt
 jupyter notebook notebook.ipynb
 ```
+
+## License
+
+The code is released under the [MIT License](LICENSE). Datasets keep the terms of their original sources, described above.
